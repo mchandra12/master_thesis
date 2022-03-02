@@ -1,2 +1,8 @@
-# master_thesis
-Thesis titled 'Worker Heterogeneity in Career Dynamics'
+## Master Thesis
+This repository hosts my master thesis titled 'Worker Heterogeneity in Career Dynamics'.
+
+### Abstract:
+This paper documents and studies heterogeneity in career progression by gender in the German context, using survey data that allows us to measure career ladder movement over the life cycle and also utilize detailed information on individual characteristics. I look into the potential role of differences in individual characteristics in determining career progression - working full-time or part-time, presence of children, marital status, working in private or public sector, and industry of employment, separately for women and men. Life cycle career profiles reveal large gender differences by these characteristics. Conditional estimates for the first three factors point towards penalties for women's careers, whilst showing no significant association or at times, a premium, for the career dynamics of men. The public sector appears to not be associated with higher promotion rates, however it offers a premium in average job level for both genders, likely explained by workers in this sector starting their careers at a higher job level. Oaxaca-Blinder decompositions at different stages of the life cycle allow us to trace the evolution of this gender gap, as well as that of its unexplained and explained components, over the life cycle. I find evidence of a gap in mean job level that cannot be accounted for by the aforementioned characteristics, which comes up around age 30-35 and persists over the remainder of the career life cycle. This is noteworthy in light of the fact that I account for the presence of children. Dynamic effects of childbirth are not captured in the decomposition analysis however, which may account for at least some fraction of the unexplained gap.
+
+
+I thank Moritz Kuhn for his guidance in writing this thesis.
